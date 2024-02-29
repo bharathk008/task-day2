@@ -1,0 +1,12 @@
+Difference between Document and window objects.
+
+  Document object: 
+          1. it is an html document
+          2. this Document object loads Second when compared to window object.
+          3. it is the property of window object.
+          4. it represents the HTML document.
+          5. it contains the contents of the page.
+  Window object:  
+          1. it is the first object that is loaded ni the browser.
+          2. it is the root of the DOM(document object model)
+          3. it represents the browser window.      
